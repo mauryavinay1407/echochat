@@ -1,5 +1,5 @@
 {
-  "name": "Scalable-chat-app",
+  "name": "Echochat",
   "private": true,
   "scripts": {
     "build": "turbo build",
